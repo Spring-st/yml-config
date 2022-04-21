@@ -1,1 +1,2 @@
-name=st
+config:
+  info: "master version=1"
